@@ -1,3 +1,6 @@
 /requirment.txt
 # This file is used to list the dependencies for the project.
 .env
+
+/.env
+# Add your dependencies below
